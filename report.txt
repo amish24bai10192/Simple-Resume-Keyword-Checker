@@ -1,0 +1,30 @@
+PROJECT REPORT
+
+Title: Resume Keyword Matcher
+
+1. Problem Statement
+Many students do not know whether their resume matches job requirements.
+
+2. Objective
+To build a simple tool that compares resume and job description.
+
+3. Approach
+- Used CountVectorizer to convert text into vectors
+- Used cosine similarity to calculate matching percentage
+
+4. Implementation
+Developed using Python and Streamlit for UI.
+
+5. Challenges
+Understanding text comparison and similarity calculation.
+
+6. Result
+The application successfully calculates match percentage and shows common keywords.
+
+7. Conclusion
+This project helped in understanding basic NLP and building a simple real-world application.
+
+8. Learning Outcome
+- Basics of NLP
+- Python libraries
+- Web app development using Streamlit
